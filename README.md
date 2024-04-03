@@ -1,5 +1,5 @@
 #  Pingpong-human Table Tennis Game
-**Deep Reinforcement Learning-based Training for Virtual Table Tennis Agent,**\
+**Deep Reinforcement Learning-based Training for Virtual Table Tennis Agent**\
 Daqi Jiang, Hock Soon Seah*, Budianto Tandianus, Yiliang Sui, Hong Wang
 <br>
 Accept by International Conference on Virtual Reality (ICVR), 2024
