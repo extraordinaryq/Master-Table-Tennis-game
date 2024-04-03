@@ -1,6 +1,6 @@
 #  Pingpong-human Table Tennis Game
 
-![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/main/pong.gif)
+![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/master/pong.gif)
 <br>
 Implementation of paper - Deep Reinforcement Learning-based Training for Virtual Table Tennis Agent
 <br>High-resolution demo video is available on [YouTube](https://www.youtube.com/playlist?list=PL2UD_JyvqMzfo0Z4aaf3IONPuUPtUIifV).
@@ -71,7 +71,8 @@ Total size: 16
 - rotation angles (3D) of the shoulder joint
 - rotation angle (1D) of the elbow joint
 - rotation angles (2D) of the wrist joint
-<br>![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/main/network.svg)
+<br>
+<br>![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/master/network.svg)
 
 **Reward function:**
 
