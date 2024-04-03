@@ -2,7 +2,13 @@
 
 ![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/master/pong.gif)
 <br>
-Implementation of paper - Deep Reinforcement Learning-based Training for Virtual Table Tennis Agent
+**Deep Reinforcement Learning-based Training for Virtual Table Tennis Agent,**\
+<br>
+Daqi Jiang, Hock Soon Seah*, Budianto Tandianus, Yiliang Sui, Hong Wang
+<br>
+Accept by International Conference on Virtual Reality (ICVR), 2024
+<br>Supervised by [Prof Seah Hock Soon](https://dr.ntu.edu.sg/cris/rp/rp00345)
+
 <br>High-resolution demo video is available on [YouTube](https://www.youtube.com/playlist?list=PL2UD_JyvqMzfo0Z4aaf3IONPuUPtUIifV).
 
 ## About
