@@ -73,8 +73,8 @@ Total size: 16
 - rotation angles (2D) of the wrist joint
 <br>
 <br>
-![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/master/pong.gif)
-
+![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/master/network.svg)
+<br>
 **Reward function:**
 
 The project contains some examples of how the reward function can be defined.
