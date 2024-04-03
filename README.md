@@ -73,7 +73,7 @@ Total size: 16
 - rotation angles (2D) of the wrist joint
 <br>
 <br>
-![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/master/network.svg)
+![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/master/pong.gif)
 
 **Reward function:**
 
