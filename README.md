@@ -32,13 +32,13 @@ Accept by International Conference on Virtual Reality (ICVR), 2024
 1. Load the `TableTennis human train` scene (Project panel → Assets → `TableTennis human train.unity`).
 2. If you previously changed Behavior Type to `Heuristic Only`, ensure that the Behavior Type is set back to `Default` .
 2. Activate the virtual environment containing your installation of `ml-agents`.
-3. Make a copy of the [provided training config file](config/) in a convenient working directory.
+3. Make a copy of the [provided training config file](Config/) in a convenient working directory.
 4. Run from the command line `mlagents-learn <path to config file> --run-id=<some_id> --time-scale=1`
     - Replace `<path to config file>` with the actual path to the file in Step 4
 5. When you see the message "Start training by pressing the Play button in the Unity Editor", click ▶ within the Unity GUI.
 6. From another terminal window, navigate to the same directory you ran Step 5 from, and run `tensorboard --logdir results` to observe the training process. 
 
-For more detailed instructions, check the [ML-Agents getting started guide](https://github.com/Unity-Technologies/ml-agents/blob/release_18_docs/docs/Getting-Started.md).
+For more detailed instructions, check the [ML-Agents getting started guide](https://github.com/Unity-Technologies/ml-agents/blob/release_21/docs/Getting-Started.md).
 
 ## PPO
 To enable PPO algorithm:
