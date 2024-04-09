@@ -21,7 +21,7 @@ Accept by International Conference on Virtual Reality (ICVR), 2024
 6. [Baselines](#baselines)
 
 ## Getting Started
-1. Install the [Unity ML-Agents toolkit](https:github.com/Unity-Technologies/ml-agents) (Release 21+) by following the [installation instructions](https://github.com/Unity-Technologies/ml-agents/blob/release_18_docs/docs/Installation.md).
+1. Install the Unity ML-Agents toolkit (Release 21+) by following the [installation instructions](https://github.com/Unity-Technologies/ml-agents/tree/release_21).
 2. Download or clone this repo containing the `Pingpong-human` Unity project.
 3. Open the `Pingpong-human` project in Unity (Unity Hub → Projects → Add → Select root folder for this repo).
 4. Load the `TableTennis human inference` scene (Project panel → Assets → `TableTennis human inference.unity`).
