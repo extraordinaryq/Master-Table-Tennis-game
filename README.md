@@ -14,7 +14,7 @@ The advent of Virtual Reality (VR) has revolutionized various fields, notably by
 </details>
 <div align="left">
     <a href="./">
-        <img src="./pong.gif" width="69%"/>
+        <img src="./pong.gif" width="60%"/>
     </a>
 </div>
 
