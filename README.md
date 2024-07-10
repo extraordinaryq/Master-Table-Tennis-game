@@ -17,6 +17,7 @@ The advent of Virtual Reality (VR) has revolutionized various fields, notably by
         <img src="./pong.gif" width="69%"/>
     </a>
 </div>
+
 ## About
 **Pingpong-human Table Tennis Game** is a multi-agent reinforcement learning environment built on [Unity ML-Agents](https://unity.com/products/machine-learning-agents).
 
