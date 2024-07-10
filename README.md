@@ -5,12 +5,10 @@ Daqi Jiang, Hock Soon Seah*, Budianto Tandianus, Yiliang Sui, Hong Wang
 Accept by International Conference on Virtual Reality (ICVR), 2024
 <br>Supervised by [Prof Seah Hock Soon](https://dr.ntu.edu.sg/cris/rp/rp00345), [Budianto Tandianus](https://www.singaporetech.edu.sg/directory/professional-officers/budianto-tandianus)
 <br>High-resolution demo video is available on [YouTube](https://www.youtube.com/playlist?list=PL2UD_JyvqMzfo0Z4aaf3IONPuUPtUIifV)
-<br>
-![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/master/pong.gif)
 
-<div align="center">
+<div align="left">
     <a href="./">
-        <img src="./pong.gif" width="79%"/>
+        <img src="./pong.gif" width="69%"/>
     </a>
 </div>
 
