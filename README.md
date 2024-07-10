@@ -7,6 +7,20 @@ Accept by International Conference on Virtual Reality (ICVR), 2024
 <br>High-resolution demo video is available on [YouTube](https://www.youtube.com/playlist?list=PL2UD_JyvqMzfo0Z4aaf3IONPuUPtUIifV)
 <br>
 ![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/master/pong.gif)
+
+<div align="center">
+    <a href="./">
+        <img src="./pong.gif" width="79%"/>
+    </a>
+</div>
+
+<details>
+  <summary>
+  <font size="+1">Abstract</font>
+  </summary>
+The advent of Virtual Reality (VR) has revolutionized various fields, notably by merging digital and physical realities, and has significantly influenced sports like table tennis. This paper introduces a novel VR-based table tennis game, employing Deep Reinforcement Learning (DRL) algorithms to enhance player experience and skill development of the agents. The game features a VR table tennis scene with human models, where the movements are controlled by a neural network trained through DRL. For the ball itself, we employ a physics engine to calculate its trajectory considering collision and gravity. The core contribution of this paper is the implementation of DRL algorithms to train the neural network and simulate the behavior of a table tennis player. Comparison experiment with different algorithms validates the efficacy of the proposed method. Additionally, the game includes human models with varied characteristics like speed, force, and active reach, which are trained separately to explore optimal strategies for playing against diverse player profiles. Two training programs including skill mastery and skill generalization are set up to explore the optimal training strategy, which offers valuable lessons in real world for both amateurs and professional athletes.
+</details>
+
 ## About
 **Pingpong-human Table Tennis Game** is a multi-agent reinforcement learning environment built on [Unity ML-Agents](https://unity.com/products/machine-learning-agents).
 
@@ -100,3 +114,22 @@ Switch different human model by changing `Humanmodel` value in `HumanAi.cs`.
 The following baselines are included:
 - `Pingpong-human_PPO_model1.onnx` - Model1 trained using PPO in 10M steps
 - `Pingpong-human_SelfPlay_model4.onnx` - Model4 trained using PPO with Self-Play in 20M steps
+
+## Acknowledgement
+
+The code base is built with [Ultimate Volleyball](https://www.gocoder.one/blog/competitive-self-play-unity-ml-agents/).
+
+Thanks for the great implementations! 
+
+## Citation
+
+If our code or models help your work, please cite our paper:
+```BibTeX
+@InProceedings{Seah_2024_ICVR,
+    author    = {Jiang, Daqi and Seah, Hock Soon and Tandianus, Budianto and Sui, Yiliang and Wang, Hong},
+    title     = {Deep Reinforcement Learning-based Training for Virtual Table Tennis Agent},
+    booktitle = {International Conference on Virtual Reality (ICVR)},
+    month     = {July},
+    year      = {2024},
+}
+```
