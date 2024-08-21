@@ -117,7 +117,8 @@ The following baselines are included:
 The code base is built with [Ultimate Volleyball](https://www.gocoder.one/blog/competitive-self-play-unity-ml-agents/).
 
 Thanks for the great implementations! 
-
+## Correction
+As mentioned in our paper, different models adopt different strategies to win the game. For the children group, they will tend to return short balls to win the game. However,experiment result show that key point is force rather than active reach. More details and research will be published in our next paper. Thanks to contribution of Yiliang Sui.
 ## Citation
 
 If our code or models help your work, please cite our paper:
